@@ -1,0 +1,58 @@
+////////////////////////////////////
+      //var addrupee = 0;
+      // currentobject = copytabledata[index]
+      //   Object.keys(currentobject).forEach(key => {
+      //     if (key === "rs_amount")
+      //     {
+      //      addrupee = parseInt(currentobject[key])+parseInt(this.state.total_rs_amount)
+      //       }
+      //   })
+      // console.log("paisa" + addrupee)
+      // this.setState((prev) => {
+      //   return {
+      //       total_rs_amount:parseInt(prev.total_rs_amount)+addrupee
+      //   }
+      // })
+      
+      // console.log(name, value)
+      //console.log(this.state.tabledata[this.shifter])
+      // this.setState((prevstate) => {
+      // console.log(this.state.tabledata[this.shifter].name)
+      //   return {
+      //     [this.state.tabledata[this.shifter].name]: value
+      //   }
+      // });
+      // let copyobject = JSON.parse(JSON.stringify(this.state.tabledata))
+      // const syed = new this.state?.tabledata?.shifter?.id()
+      // console.log("---------",syed)
+      // let copy = [...this.state.tabledata]
+      // if (name === "Naam") {
+      //   copy[this.shifter].Naam = value;
+      // }
+      // if (name === "rs_amount") {
+      //   copy[this.shifter].rs_amount = value;
+      // }
+      // if (name === "dollar_amount") {
+      //   copy[this.shifter].dollar_amount = value;
+      // }
+      // this.setState({[this.state.tabledata[this.shifter]]: copy})
+      // console.log(name)
+      // console.log(this.state)
+   
+        // copytabledata.forEach((element) => {
+        //   console.log(element)
+        //   Object.keys(element).forEach(key => {
+        
+        //   })
+        // })
+        // this.setState((prevstate) => {
+        //   console.log(prevstate.tabledata[0].rs_amount)
+        //     return {
+        //       [name]: value
+        //     }
+        //   });
+        // const { name, value } = event.target;
+        
+        // this.setState((prevstate) = {
+        
+        // })
